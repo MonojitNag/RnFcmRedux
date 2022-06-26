@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">861655830717-e2d4lqtcg9v1dojudd6390uica142vnk.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">861655830717</string>
+    <string name="google_api_key" translatable="false">AIzaSyApGnc5fpbPTx1SEzSMZvF7YqU6T7fyRLQ</string>
+    <string name="google_app_id" translatable="false">1:861655830717:android:062827a8572a84df19e7d4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyApGnc5fpbPTx1SEzSMZvF7YqU6T7fyRLQ</string>
+    <string name="google_storage_bucket" translatable="false">jestexam-83922.appspot.com</string>
+    <string name="project_id" translatable="false">jestexam-83922</string>
+</resources>
