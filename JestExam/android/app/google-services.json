@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "861655830717",
+    "project_id": "jestexam-83922",
+    "storage_bucket": "jestexam-83922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861655830717:android:062827a8572a84df19e7d4",
+        "android_client_info": {
+          "package_name": "com.jestexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861655830717-68iugs09s5ffh8c7fuom2724sb8428pj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jestexam",
+            "certificate_hash": "32c5f975e3b318f7b2d194b8e9884f5ee340ae4b"
+          }
+        },
+        {
+          "client_id": "861655830717-e2d4lqtcg9v1dojudd6390uica142vnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApGnc5fpbPTx1SEzSMZvF7YqU6T7fyRLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861655830717-e2d4lqtcg9v1dojudd6390uica142vnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
